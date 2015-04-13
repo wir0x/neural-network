@@ -1,2 +1,4 @@
 # neural-network
-multilayer perceptron (input layer -> hidden layer -> output layer)
+Multilayer perceptron (input layer -> hidden layer -> output layer)
+
+Uses numpy
